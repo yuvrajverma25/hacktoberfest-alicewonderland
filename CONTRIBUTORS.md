@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+  
+#### Name: [Yuvraj Verma](https://github.com/yuvrajverma25)
+- Place: Madhya Pradesh, India
+- Bio: Web developer 
+- Github: [yuvrajverma25](https://github.com/yuvrajverma25)
